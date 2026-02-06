@@ -176,7 +176,7 @@ const shoes = [
     gender: "unisex",
     sizes: [7, 8, 9, 10, 11, 12, 13],
     colors: ["blue", "black", "white"],
-    image: "https://images.unsplash.com/photo-1606890737304-57a1ca8a5b62?w=800",
+    image: "https://images.unsplash.com/photo-1709258228137-19a8c193be39?w=800",
     description: "Premium stability running shoes."
   },
   {
@@ -188,7 +188,7 @@ const shoes = [
     gender: "men",
     sizes: [7, 8, 9, 10, 11, 12],
     colors: ["sand", "brown", "black"],
-    image: "https://images.unsplash.com/photo-1478186014654-86c3d8090919?w=800",
+    image: "https://images.unsplash.com/photo-1640726102860-d8994af09523?w=800",
     description: "Classic suede desert boots."
   },
   {
@@ -200,7 +200,7 @@ const shoes = [
     gender: "unisex",
     sizes: [6, 7, 8, 9, 10, 11],
     colors: ["black", "white", "red"],
-    image: "https://images.unsplash.com/photo-1603787081207-362bcef7f620?w=800",
+    image: "https://images.unsplash.com/photo-1715003132895-b10a23d3c90f?w=800",
     description: "Motorsport-inspired low-profile sneakers."
   },
   {
